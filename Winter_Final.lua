@@ -1,4 +1,6 @@
 -- Space Cadet
+-- Created By: Ryan Winter
+-- Copyright 2013
 --[[
 >Greet Player
 	- See if Player needs rules, else skip
